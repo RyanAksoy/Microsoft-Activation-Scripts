@@ -13,7 +13,7 @@
 
 
 ::  To stage current edition while changing edition with CBS Upgrade Method, change 0 to 1 in below line
-set _stg=0
+set _stg=1
 
 
 
